@@ -12,7 +12,7 @@ Referencias
 * [LinkedIn](https://www.linkedin.com/in/cristhianayala-ed/)
 
 ## Ver ejemplo en vivo
-- [Enlace]()
+- [https://cristhianayala-ed.github.io/Generador-Numeros-Pesudoaleatorios/](https://cristhianayala-ed.github.io/Generador-Numeros-Pesudoaleatorios/)
 
 ## Instalacion
 Este proyecto no necesita instalación. Simplemente abre la carpeta o haz click en el .html
