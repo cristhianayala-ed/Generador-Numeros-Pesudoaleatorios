@@ -3,8 +3,8 @@ La aplicación web es un generador de números pseudoaleatorios que fue diseñad
 Con el propósito de garantizar la validez de la data generada, la aplicación web permite realizar las pruebas estadísticas (nivel de significancia del 5%) para números pseudoaleatorios (prueba de medias, pruebas de varianza, prueba de uniformidad y prueba de independencia), dejando a criterio del usuario, la descarga de la data en formato CSV.
 
 Referencias
-- Bill Buchanan (Director). (2019). Blum Blum Shub Random Number Generator [Video recording]. [YouTube](https://www.youtube.com/watch?v=NyGb1V1thEk/).
-- García, E., García, H., & Cárdenas, L. (2013). Simulación y Análisis de Sistemas con ProModel (2da Edición). Pearson.
+* Bill Buchanan (Director). (2019). Blum Blum Shub Random Number Generator [Video recording]. [YouTube](https://www.youtube.com/watch?v=NyGb1V1thEk/).
+*  García, E., García, H., & Cárdenas, L. (2013). Simulación y Análisis de Sistemas con ProModel (2da Edición). Pearson.
 
 ## Autor
 **Cristhian Ayala**
@@ -21,8 +21,5 @@ Este proyecto no necesita instalación. Simplemente abre la carpeta o haz click 
 Si quieres contratarme, puedes escribirme a cristhianayala.ed@gmail.com para consultas.
 
 ## Licencia
-MIT Public License 3.0
+MIT Public License v3.0
 No puede usarse comercialmente.
-
-
-Generador-Numeros-Pesudoaleatorios
