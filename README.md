@@ -12,7 +12,7 @@ Referencias
 * [LinkedIn](https://www.linkedin.com/in/cristhianayala-ed/)
 
 ## Ver ejemplo en vivo
-- [https://algoritmosmys.netlify.app/](https://algoritmosmys.netlify.app/)
+- [https://algoritmosmys.netlify.app](https://algoritmosmys.netlify.app/)
 
 ## Instalacion
 Este proyecto no necesita instalación. Simplemente abre la carpeta o haz click en el .html
