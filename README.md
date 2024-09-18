@@ -17,9 +17,6 @@ Referencias
 ## Instalacion
 Este proyecto no necesita instalación. Simplemente abre la carpeta o haz click en el .html
 
-## Contratación
-Si quieres contratarme, puedes escribirme a cristhianayala.ed@gmail.com para consultas.
-
 ## Licencia
 MIT Public License v3.0
 No puede usarse comercialmente.
